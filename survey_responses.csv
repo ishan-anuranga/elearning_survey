@@ -1,0 +1,704 @@
+What is your gender?,What is your current residential province?,What is the year you are currently in your university,What devices do you use to access learning materials (select all that apply),How many hours are you spending weekly on e-learning platforms online?,"How stable is your internet connection, which you used to attend online classes?","If there is an issue connecting your web camera on an online lecture, How confident that you can resolve it by yourself?",How confident you are on creating a Microsoft Word document?,How confident you are on creating a Microsoft Excel document?,How confident you are on creating a simple computer program?,E-learning is a method of teaching and learning using electronic media,E-learning is helpful more than traditional learning in my academic performance,I review e-learning material before my learning sessions ,Education through e-learning platforms is better than traditional learning.,Do you avoid participating in an online lecture if it is recorded and uploaded?,How often do you browse the internet to find information?,How often do you use internet during online lectures?,Which type of resources do you prefer the most?
+Male,Western,3rd year,PC/Laptop,1–10 h,Good,Very confident,Very confident,Very confident,Very confident,Agree,Agree,Disagree,Agree,Neutral,Very frequently,Somewhat frequently,Video tutorials
+Female,North Central,2nd year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Somewhat confident,Somewhat confident,Agree,Neutral,Agree,Disagree,Strongly disagree,Occasionally,Occasionally,Video tutorials
+Male,Eastern,4th year,PC/Laptop,10–20 h,Poor,Somewhat confident,Confident,Confident,Not confident,Agree,Disagree,Neutral,Neutral,Disagree,Occasionally,Somewhat frequently,Online lectures
+Female,Sabaragamuwa,1st year,PC/Laptop,20-30 h,Fair,Not confident,Confident,Somewhat confident,Not confident,Agree,Agree,Strongly Agree,Agree,Strongly disagree,Very frequently,Somewhat frequently,Video tutorials
+Male,Western,3rd year,PC/Laptop,10–20 h,Good,Confident,Confident,Confident,Confident,Agree,Agree,Disagree,Agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Southern,2nd year,PC/Laptop,1–10 h,Fair,Confident,Somewhat confident,Somewhat confident,Not confident,Agree,Strongly agree,Disagree,Agree,Disagree,Very frequently,Very frequently,Video tutorials
+Female,Western,2nd year,PC/Laptop,1–10 h,Good,Not confident,Very confident,Confident,Not confident,Disagree,Agree,Strongly Agree,Disagree,Strongly disagree,Somewhat frequently,Occasionally,Text material
+Male,Western,3rd year,PC/Laptop,1–10 h,Excellent,Very confident,Very confident,Very confident,Very confident,Strongly agree,Agree,Agree,Agree,Disagree,Very frequently,Very frequently,Video tutorials
+Female,Western,4th year,PC/Laptop,10–20 h,Good,Somewhat confident,Confident,Confident,Not confident,Agree,Strongly agree,Agree,Agree,Disagree,Somewhat frequently,Occasionally,Online lectures
+Male,Western,4th year,PC/Laptop,1–10 h,Excellent,Somewhat confident,Very confident,Very confident,Not confident,Agree,Agree,Disagree,Agree,Disagree,Somewhat frequently,Very frequently,Video tutorials
+Female,Western,2nd year,PC/Laptop,10–20 h,Good,Somewhat confident,Confident,Somewhat confident,Not confident,Strongly agree,Strongly agree,Strongly Agree,Agree,Strongly disagree,Occasionally,Occasionally,Online lectures
+Male,Western,1st year,PC/Laptop,10–20 h,Good,Not confident,Confident,Somewhat confident,Not confident,Agree,Strongly agree,Strongly disagree,Strongly agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Western,1st year,PC/Laptop,20-30 h,Excellent,Confident,Confident,Confident,Somewhat confident,Agree,Agree,Neutral,Strongly agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Western,3rd year,PC/Laptop,1–10 h,Good,Very confident,Very confident,Confident,Very confident,Strongly agree,Strongly agree,Disagree,Strongly agree,Strongly agree,Very frequently,Very frequently,Video tutorials
+Male,Western,4th year,PC/Laptop,1–10 h,Excellent,Confident,Confident,Confident,Not confident,Agree,Disagree,Disagree,Disagree,Strongly disagree,Occasionally,Occasionally,Online lectures
+Male,Western,1st year,PC/Laptop,20-30 h,Good,Confident,Confident,Somewhat confident,Somewhat confident,Strongly agree,Agree,Neutral,Neutral,Strongly agree,Very frequently,Occasionally,Video tutorials
+Female,Western,3rd year,PC/Laptop,1–10 h,Good,Somewhat confident,Confident,Somewhat confident,Not confident,Neutral,Agree,Disagree,Agree,Disagree,Somewhat frequently,Very frequently,Video tutorials
+Female,Western,2nd year,"PC/Laptop, Mobile phone",10–20 h,Good,Somewhat confident,Confident,Confident,Not confident,Disagree,Agree,Agree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Western,4th year,PC/Laptop,1–10 h,Good,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Strongly agree,Agree,Neutral,Agree,Agree,Somewhat frequently,Occasionally,Online lectures
+Male,Southern,4th year,PC/Laptop,1–10 h,Fair,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Strongly agree,Agree,Agree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Southern,3rd year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Very confident,Not confident,Agree,Agree,Strongly Agree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Southern,1st year,PC/Laptop,20-30 h,Good,Confident,Somewhat confident,Somewhat confident,Confident,Agree,Agree,Strongly Agree,Agree,Agree,Somewhat frequently,Somewhat frequently,Online lectures
+Female,Southern,1st year,PC/Laptop,20-30 h,Poor,Not confident,Confident,Somewhat confident,Not confident,Agree,Strongly agree,Agree,Strongly agree,Agree,Very frequently,Very frequently,Online lectures
+Male,Southern,2nd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Strongly agree,Agree,Neutral,Neutral,Occasionally,Very frequently,Video tutorials
+Male,Southern,4th year,PC/Laptop,1–10 h,Poor,Somewhat confident,Very confident,Confident,Not confident,Agree,Strongly agree,Disagree,Neutral,Strongly agree,Somewhat infrequently,Very frequently,Video tutorials
+Male,Southern,2nd year,PC/Laptop,10–20 h,Fair,Confident,Confident,Confident,Confident,Strongly agree,Agree,Disagree,Agree,Neutral,Occasionally,Somewhat frequently,Text material
+Male,Southern,1st year,PC/Laptop,More than 30,Good,Confident,Confident,Confident,Very confident,Strongly agree,Strongly agree,Agree,Strongly agree,Agree,Somewhat frequently,Very frequently,Text material
+Female,Southern,1st year,PC/Laptop,20-30 h,Good,Somewhat confident,Very confident,Confident,Somewhat confident,Neutral,Agree,Agree,Neutral,Neutral,Somewhat infrequently,Very frequently,Video tutorials
+Male,Southern,2nd year,"PC/Laptop, Tablet",10–20 h,Fair,Somewhat confident,Confident,Somewhat confident,Not confident,Neutral,Agree,Disagree,Neutral,Agree,Somewhat frequently,Very infrequently,Online lectures
+Male,Southern,4th year,"PC/Laptop, Tablet, Mobile phone",1–10 h,Excellent,Very confident,Confident,Confident,Very confident,Strongly agree,Strongly agree,Disagree,Strongly agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Southern,3rd year,PC/Laptop,1–10 h,Good,Confident,Confident,Confident,Somewhat confident,Agree,Agree,Agree,Neutral,Neutral,Occasionally,Somewhat frequently,Online lectures
+Male,Central,1st year,PC/Laptop,20-30 h,Good,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Agree,Strongly agree,Agree,Neutral,Agree,Very frequently,Very frequently,Video tutorials
+Male,Central,1st year,PC/Laptop,20-30 h,Fair,Confident,Very confident,Confident,Not confident,Agree,Agree,Agree,Disagree,Disagree,Very frequently,Very frequently,Video tutorials
+Male,Central,4th year,"PC/Laptop, Mobile phone",1–10 h,Fair,Confident,Confident,Confident,Not confident,Strongly agree,Agree,Agree,Agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Central,1st year,PC/Laptop,10–20 h,Poor,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Agree,Agree,Neutral,Agree,Agree,Very frequently,Very frequently,Online lectures
+Male,Central,3rd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Somewhat confident,Confident,Not confident,Agree,Agree,Disagree,Neutral,Strongly agree,Very frequently,Occasionally,Online lectures
+Male,Central,4th year,PC/Laptop,1–10 h,Poor,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Very frequently,Online lectures
+Male,Central,1st year,PC/Laptop,More than 30,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Central,3rd year,PC/Laptop,1–10 h,Poor,Confident,Confident,Confident,Somewhat confident,Agree,Agree,Disagree,Strongly agree,Strongly agree,Very frequently,Very frequently,Video tutorials
+Female,Central,3rd year,PC/Laptop,10–20 h,Good,Somewhat confident,Somewhat confident,Somewhat confident,Somewhat confident,Agree,Agree,Agree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Text material
+Male,Central,4th year,"PC/Laptop, Mobile phone",1–10 h,Fair,Very confident,Somewhat confident,Somewhat confident,Confident,Agree,Strongly agree,Neutral,Agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Central,2nd year,"PC/Laptop, Mobile phone",10–20 h,Fair,Confident,Confident,Very confident,Confident,Neutral,Agree,Neutral,Agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+Male,Central,4th year,PC/Laptop,1–10 h,Good,Confident,Confident,Confident,Confident,Agree,Strongly agree,Disagree,Strongly agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Central,3rd year,PC/Laptop,1–10 h,Fair,Very confident,Confident,Confident,Somewhat confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Somewhat frequently,Online lectures
+Male,Western,3rd year,"PC/Laptop, Mobile phone",1–10 h,Good,Somewhat confident,Somewhat confident,Somewhat confident,Somewhat confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Western,1st year,PC/Laptop,20-30 h,Good,Confident,Somewhat confident,Somewhat confident,Not confident,Neutral,Agree,Disagree,Agree,Neutral,Occasionally,Somewhat frequently,Video tutorials
+Female,Western,2nd year,PC/Laptop,10–20 h,Good,Somewhat confident,Confident,Confident,Somewhat confident,Agree,Strongly agree,Disagree,Agree,Disagree,Occasionally,Occasionally,Online lectures
+Male,Western,2nd year,"PC/Laptop, Mobile phone",1–10 h,Good,Confident,Somewhat confident,Confident,Somewhat confident,Agree,Agree,Agree,Agree,Neutral,Somewhat frequently,Very frequently,Online lectures
+Male,Western,4th year,PC/Laptop,1–10 h,Good,Confident,Confident,Somewhat confident,Confident,Neutral,Agree,Disagree,Agree,Neutral,Occasionally,Somewhat frequently,Video tutorials
+Male,Western,2nd year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Confident,Agree,Agree,Neutral,Agree,Neutral,Somewhat infrequently,Very frequently,Video tutorials
+Male,Southern,1st year,"PC/Laptop, Tablet, Mobile phone",More than 30,Fair,Confident,Confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Neutral,Somewhat frequently,Very frequently,Video tutorials
+Male,Central,2nd year,PC/Laptop,10–20 h,Fair,Confident,Very confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Disagree,Somewhat frequently,Very frequently,Video tutorials
+Male,Central,1st year,"PC/Laptop, Mobile phone",More than 30,Good,Confident,Very confident,Confident,Somewhat confident,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly disagree,Very frequently,Occasionally,Video tutorials
+Male,Central,4th year,PC/Laptop,1–10 h,Fair,Very confident,Confident,Confident,Not confident,Neutral,Strongly agree,Neutral,Agree,Agree,Occasionally,Occasionally,Online lectures
+Male,Central,3rd year,PC/Laptop,10–20 h,Good,Confident,Confident,Confident,Confident,Agree,Strongly agree,Neutral,Agree,Neutral,Somewhat frequently,Somewhat frequently,Online lectures
+Male,Central,4th year,PC/Laptop,1–10 h,Poor,Confident,Confident,Confident,Not confident,Agree,Agree,Agree,Agree,Agree,Occasionally,Occasionally,Online lectures
+Male,Eastern,4th year,PC/Laptop,10–20 h,Fair,Confident,Very confident,Very confident,Confident,Agree,Neutral,Disagree,Strongly agree,Neutral,Very frequently,Somewhat frequently,Video tutorials
+Female,Eastern,2nd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Female,Eastern,3rd year,PC/Laptop,10–20 h,Poor,Somewhat confident,Very confident,Very confident,Not confident,Agree,Agree,Disagree,Agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+Male,Eastern,4th year,PC/Laptop,1–10 h,Poor,Confident,Confident,Confident,Somewhat confident,Agree,Strongly agree,Disagree,Strongly agree,Strongly disagree,Somewhat frequently,Somewhat frequently,Online lectures
+Male,Eastern,4th year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Strongly agree,Agree,Agree,Neutral,Occasionally,Occasionally,Text material
+Male,Eastern,4th year,PC/Laptop,10–20 h,Fair,Confident,Very confident,Confident,Not confident,Agree,Neutral,Neutral,Disagree,Agree,Occasionally,Somewhat frequently,Video tutorials
+Male,Eastern,3rd year,PC/Laptop,1–10 h,Poor,Very confident,Very confident,Very confident,Confident,Neutral,Agree,Neutral,Agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Eastern,4th year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Somewhat confident,Neutral,Agree,Agree,Agree,Agree,Occasionally,Very frequently,Video tutorials
+Male,Eastern,4th year,PC/Laptop,1–10 h,Good,Very confident,Confident,Confident,Confident,Neutral,Strongly agree,Neutral,Strongly agree,Neutral,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Eastern,3rd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Disagree,Somewhat frequently,Occasionally,Online lectures
+Male,Sabaragamuwa,1st year,PC/Laptop,20-30 h,Fair,Somewhat confident,Very confident,Confident,Not confident,Agree,Agree,Neutral,Strongly agree,Neutral,Somewhat frequently,Very frequently,Video tutorials
+Male,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Fair,Very confident,Confident,Confident,Confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Sabaragamuwa,3rd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Neutral,Agree,Agree,Agree,Neutral,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Sabaragamuwa,2nd year,PC/Laptop,10–20 h,Fair,Confident,Confident,Confident,Confident,Agree,Agree,Neutral,Strongly agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Good,Very confident,Very confident,Very confident,Very confident,Strongly agree,Agree,Strongly disagree,Strongly agree,Agree,Very frequently,Very frequently,Video tutorials
+Female,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Neutral,Agree,Disagree,Somewhat frequently,Somewhat infrequently,Online lectures
+Male,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Confident,Agree,Agree,Neutral,Agree,Neutral,Somewhat frequently,Very frequently,Video tutorials
+Male,Sabaragamuwa,3rd year,PC/Laptop,10–20 h,Poor,Confident,Very confident,Confident,Somewhat confident,Agree,Neutral,Agree,Neutral,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Fair,Very confident,Confident,Confident,Confident,Agree,Agree,Disagree,Strongly agree,Neutral,Very frequently,Very frequently,Video tutorials
+Male,North Western,2nd year,PC/Laptop,1–10 h,Fair,Somewhat confident,Somewhat confident,Somewhat confident,Somewhat confident,Strongly agree,Agree,Disagree,Neutral,Agree,Occasionally,Occasionally,Online lectures
+Female,North Western,3rd year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Not confident,Neutral,Agree,Disagree,Strongly agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+Male,North Western,1st year,PC/Laptop,20-30 h,Good,Very confident,Very confident,Very confident,Very confident,Strongly disagree,Agree,Strongly disagree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Online lectures
+Male,North Western,4th year,PC/Laptop,1–10 h,Excellent,Very confident,Confident,Confident,Not confident,Disagree,Disagree,Agree,Neutral,Disagree,Somewhat frequently,Occasionally,Video tutorials
+Male,North Western,3rd year,PC/Laptop,10–20 h,Good,Somewhat confident,Confident,Confident,Not confident,Neutral,Agree,Disagree,Strongly agree,Neutral,Very frequently,Very infrequently,Video tutorials
+Male,North Western,4th year,PC/Laptop,1–10 h,Poor,Very confident,Very confident,Very confident,Not confident,Agree,Neutral,Neutral,Agree,Agree,Occasionally,Somewhat frequently,Video tutorials
+Male,North Western,3rd year,PC/Laptop,20-30 h,Fair,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Occasionally,Video tutorials
+Female,North Western,4th year,PC/Laptop,1–10 h,Fair,Confident,Somewhat confident,Confident,Not confident,Agree,Neutral,Disagree,Neutral,Strongly agree,Somewhat infrequently,Somewhat frequently,Video tutorials
+Male,North Western,3rd year,PC/Laptop,1–10 h,Poor,Somewhat confident,Very confident,Very confident,Not confident,Neutral,Strongly disagree,Agree,Disagree,Neutral,Occasionally,Occasionally,Text material
+Male,Uva,2nd year,PC/Laptop,10–20 h,Good,Confident,Confident,Confident,Not confident,Neutral,Agree,Disagree,Agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Uva,2nd year,PC/Laptop,20-30 h,Fair,Somewhat confident,Confident,Somewhat confident,Somewhat confident,Strongly agree,Neutral,Disagree,Strongly agree,Agree,Somewhat frequently,Occasionally,Video tutorials
+Male,Uva,2nd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Somewhat confident,Somewhat confident,Neutral,Agree,Disagree,Neutral,Strongly agree,Somewhat frequently,Occasionally,Video tutorials
+Male,Uva,3rd year,PC/Laptop,1–10 h,Poor,Very confident,Confident,Confident,Confident,Agree,Disagree,Agree,Disagree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Uva,3rd year,PC/Laptop,10–20 h,Good,Somewhat confident,Very confident,Somewhat confident,Somewhat confident,Neutral,Agree,Disagree,Neutral,Agree,Occasionally,Very frequently,Video tutorials
+Female,Uva,3rd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Confident,Confident,Agree,Strongly agree,Agree,Agree,Disagree,Somewhat frequently,Somewhat infrequently,Online lectures
+Male,Uva,2nd year,PC/Laptop,10–20 h,Fair,Very confident,Confident,Somewhat confident,Not confident,Agree,Agree,Disagree,Agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+Male,Uva,2nd year,PC/Laptop,10–20 h,Good,Confident,Confident,Confident,Confident,Neutral,Agree,Disagree,Strongly agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Uva,4th year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Not confident,Neutral,Agree,Disagree,Agree,Strongly agree,Very frequently,Somewhat frequently,Video tutorials
+Male,Northern,3rd year,PC/Laptop,10–20 h,Good,Very confident,Very confident,Very confident,Very confident,Strongly agree,Strongly agree,Neutral,Strongly agree,Neutral,Very frequently,Occasionally,Video tutorials
+Male,Northern,3rd year,PC/Laptop,1–10 h,Excellent,Somewhat confident,Confident,Somewhat confident,Not confident,Agree,Strongly agree,Disagree,Agree,Agree,Occasionally,Somewhat frequently,Video tutorials
+Male,Northern,4th year,"PC/Laptop, Mobile phone",1–10 h,Fair,Somewhat confident,Confident,Confident,Not confident,Neutral,Disagree,Agree,Neutral,Agree,Occasionally,Somewhat frequently,Video tutorials
+Male,Northern,4th year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Confident,Somewhat confident,Neutral,Agree,Disagree,Strongly agree,Agree,Somewhat frequently,Occasionally,Video tutorials
+Male,Northern,3rd year,PC/Laptop,10–20 h,Fair,Very confident,Confident,Confident,Very confident,Strongly agree,Strongly agree,Disagree,Strongly agree,Strongly agree,Occasionally,Occasionally,Video tutorials
+Male,North Central,1st year,PC/Laptop,More than 30,Good,Somewhat confident,Very confident,Confident,Somewhat confident,Agree,Agree,Agree,Agree,Agree,Somewhat frequently,Occasionally,Video tutorials
+Female,North Central,2nd year,PC/Laptop,20-30 h,Poor,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Neutral,Agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+What is your gender?,What is your current residential province?,What is the year you are currently in your university,What devices do you use to access learning materials (select all that apply),How many hours are you spending weekly on e-learning platforms online?,"How stable is your internet connection, which you used to attend online classes?","If there is an issue connecting your web camera on an online lecture, How confident that you can resolve it by yourself?",How confident you are on creating a Microsoft Word document?,How confident you are on creating a Microsoft Excel document?,How confident you are on creating a simple computer program?,E-learning is a method of teaching and learning using electronic media,E-learning is helpful more than traditional learning in my academic performance,I review e-learning material before my learning sessions ,Education through e-learning platforms is better than traditional learning.,Do you avoid participating in an online lecture if it is recorded and uploaded?,How often do you browse the internet to find information?,How often do you use internet during online lectures?,Which type of resources do you prefer the most?
+Male,Western,3rd year,PC/Laptop,1–10 h,Good,Very confident,Very confident,Very confident,Very confident,Agree,Agree,Disagree,Agree,Neutral,Very frequently,Somewhat frequently,Video tutorials
+Female,North Central,2nd year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Somewhat confident,Somewhat confident,Agree,Neutral,Agree,Disagree,Strongly disagree,Occasionally,Occasionally,Video tutorials
+Male,Eastern,4th year,PC/Laptop,10–20 h,Poor,Somewhat confident,Confident,Confident,Not confident,Agree,Disagree,Neutral,Neutral,Disagree,Occasionally,Somewhat frequently,Online lectures
+Female,Sabaragamuwa,1st year,PC/Laptop,20-30 h,Fair,Not confident,Confident,Somewhat confident,Not confident,Agree,Agree,Strongly Agree,Agree,Strongly disagree,Very frequently,Somewhat frequently,Video tutorials
+Male,Western,3rd year,PC/Laptop,10–20 h,Good,Confident,Confident,Confident,Confident,Agree,Agree,Disagree,Agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Southern,2nd year,PC/Laptop,1–10 h,Fair,Confident,Somewhat confident,Somewhat confident,Not confident,Agree,Strongly agree,Disagree,Agree,Disagree,Very frequently,Very frequently,Video tutorials
+Female,Western,2nd year,PC/Laptop,1–10 h,Good,Not confident,Very confident,Confident,Not confident,Disagree,Agree,Strongly Agree,Disagree,Strongly disagree,Somewhat frequently,Occasionally,Text material
+Male,Western,3rd year,PC/Laptop,1–10 h,Excellent,Very confident,Very confident,Very confident,Very confident,Strongly agree,Agree,Agree,Agree,Disagree,Very frequently,Very frequently,Video tutorials
+Female,Western,4th year,PC/Laptop,10–20 h,Good,Somewhat confident,Confident,Confident,Not confident,Agree,Strongly agree,Agree,Agree,Disagree,Somewhat frequently,Occasionally,Online lectures
+Male,Western,4th year,PC/Laptop,1–10 h,Excellent,Somewhat confident,Very confident,Very confident,Not confident,Agree,Agree,Disagree,Agree,Disagree,Somewhat frequently,Very frequently,Video tutorials
+Female,Western,2nd year,PC/Laptop,10–20 h,Good,Somewhat confident,Confident,Somewhat confident,Not confident,Strongly agree,Strongly agree,Strongly Agree,Agree,Strongly disagree,Occasionally,Occasionally,Online lectures
+Male,Western,1st year,PC/Laptop,10–20 h,Good,Not confident,Confident,Somewhat confident,Not confident,Agree,Strongly agree,Strongly disagree,Strongly agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Western,1st year,PC/Laptop,20-30 h,Excellent,Confident,Confident,Confident,Somewhat confident,Agree,Agree,Neutral,Strongly agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Western,3rd year,PC/Laptop,1–10 h,Good,Very confident,Very confident,Confident,Very confident,Strongly agree,Strongly agree,Disagree,Strongly agree,Strongly agree,Very frequently,Very frequently,Video tutorials
+Male,Western,4th year,PC/Laptop,1–10 h,Excellent,Confident,Confident,Confident,Not confident,Agree,Disagree,Disagree,Disagree,Strongly disagree,Occasionally,Occasionally,Online lectures
+Male,Western,1st year,PC/Laptop,20-30 h,Good,Confident,Confident,Somewhat confident,Somewhat confident,Strongly agree,Agree,Neutral,Neutral,Strongly agree,Very frequently,Occasionally,Video tutorials
+Female,Western,3rd year,PC/Laptop,1–10 h,Good,Somewhat confident,Confident,Somewhat confident,Not confident,Neutral,Agree,Disagree,Agree,Disagree,Somewhat frequently,Very frequently,Video tutorials
+Female,Western,2nd year,"PC/Laptop, Mobile phone",10–20 h,Good,Somewhat confident,Confident,Confident,Not confident,Disagree,Agree,Agree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Western,4th year,PC/Laptop,1–10 h,Good,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Strongly agree,Agree,Neutral,Agree,Agree,Somewhat frequently,Occasionally,Online lectures
+Male,Southern,4th year,PC/Laptop,1–10 h,Fair,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Strongly agree,Agree,Agree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Southern,3rd year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Very confident,Not confident,Agree,Agree,Strongly Agree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Southern,1st year,PC/Laptop,20-30 h,Good,Confident,Somewhat confident,Somewhat confident,Confident,Agree,Agree,Strongly Agree,Agree,Agree,Somewhat frequently,Somewhat frequently,Online lectures
+Female,Southern,1st year,PC/Laptop,20-30 h,Poor,Not confident,Confident,Somewhat confident,Not confident,Agree,Strongly agree,Agree,Strongly agree,Agree,Very frequently,Very frequently,Online lectures
+Male,Southern,2nd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Strongly agree,Agree,Neutral,Neutral,Occasionally,Very frequently,Video tutorials
+Male,Southern,4th year,PC/Laptop,1–10 h,Poor,Somewhat confident,Very confident,Confident,Not confident,Agree,Strongly agree,Disagree,Neutral,Strongly agree,Somewhat infrequently,Very frequently,Video tutorials
+Male,Southern,2nd year,PC/Laptop,10–20 h,Fair,Confident,Confident,Confident,Confident,Strongly agree,Agree,Disagree,Agree,Neutral,Occasionally,Somewhat frequently,Text material
+Male,Southern,1st year,PC/Laptop,More than 30,Good,Confident,Confident,Confident,Very confident,Strongly agree,Strongly agree,Agree,Strongly agree,Agree,Somewhat frequently,Very frequently,Text material
+Female,Southern,1st year,PC/Laptop,20-30 h,Good,Somewhat confident,Very confident,Confident,Somewhat confident,Neutral,Agree,Agree,Neutral,Neutral,Somewhat infrequently,Very frequently,Video tutorials
+Male,Southern,2nd year,"PC/Laptop, Tablet",10–20 h,Fair,Somewhat confident,Confident,Somewhat confident,Not confident,Neutral,Agree,Disagree,Neutral,Agree,Somewhat frequently,Very infrequently,Online lectures
+Male,Southern,4th year,"PC/Laptop, Tablet, Mobile phone",1–10 h,Excellent,Very confident,Confident,Confident,Very confident,Strongly agree,Strongly agree,Disagree,Strongly agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Southern,3rd year,PC/Laptop,1–10 h,Good,Confident,Confident,Confident,Somewhat confident,Agree,Agree,Agree,Neutral,Neutral,Occasionally,Somewhat frequently,Online lectures
+Male,Central,1st year,PC/Laptop,20-30 h,Good,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Agree,Strongly agree,Agree,Neutral,Agree,Very frequently,Very frequently,Video tutorials
+Male,Central,1st year,PC/Laptop,20-30 h,Fair,Confident,Very confident,Confident,Not confident,Agree,Agree,Agree,Disagree,Disagree,Very frequently,Very frequently,Video tutorials
+Male,Central,4th year,"PC/Laptop, Mobile phone",1–10 h,Fair,Confident,Confident,Confident,Not confident,Strongly agree,Agree,Agree,Agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Central,1st year,PC/Laptop,10–20 h,Poor,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Agree,Agree,Neutral,Agree,Agree,Very frequently,Very frequently,Online lectures
+Male,Central,3rd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Somewhat confident,Confident,Not confident,Agree,Agree,Disagree,Neutral,Strongly agree,Very frequently,Occasionally,Online lectures
+Male,Central,4th year,PC/Laptop,1–10 h,Poor,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Very frequently,Online lectures
+Male,Central,1st year,PC/Laptop,More than 30,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Central,3rd year,PC/Laptop,1–10 h,Poor,Confident,Confident,Confident,Somewhat confident,Agree,Agree,Disagree,Strongly agree,Strongly agree,Very frequently,Very frequently,Video tutorials
+Female,Central,3rd year,PC/Laptop,10–20 h,Good,Somewhat confident,Somewhat confident,Somewhat confident,Somewhat confident,Agree,Agree,Agree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Text material
+Male,Central,4th year,"PC/Laptop, Mobile phone",1–10 h,Fair,Very confident,Somewhat confident,Somewhat confident,Confident,Agree,Strongly agree,Neutral,Agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Central,2nd year,"PC/Laptop, Mobile phone",10–20 h,Fair,Confident,Confident,Very confident,Confident,Neutral,Agree,Neutral,Agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+Male,Central,4th year,PC/Laptop,1–10 h,Good,Confident,Confident,Confident,Confident,Agree,Strongly agree,Disagree,Strongly agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Central,3rd year,PC/Laptop,1–10 h,Fair,Very confident,Confident,Confident,Somewhat confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Somewhat frequently,Online lectures
+Male,Western,3rd year,"PC/Laptop, Mobile phone",1–10 h,Good,Somewhat confident,Somewhat confident,Somewhat confident,Somewhat confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Western,1st year,PC/Laptop,20-30 h,Good,Confident,Somewhat confident,Somewhat confident,Not confident,Neutral,Agree,Disagree,Agree,Neutral,Occasionally,Somewhat frequently,Video tutorials
+Female,Western,2nd year,PC/Laptop,10–20 h,Good,Somewhat confident,Confident,Confident,Somewhat confident,Agree,Strongly agree,Disagree,Agree,Disagree,Occasionally,Occasionally,Online lectures
+Male,Western,2nd year,"PC/Laptop, Mobile phone",1–10 h,Good,Confident,Somewhat confident,Confident,Somewhat confident,Agree,Agree,Agree,Agree,Neutral,Somewhat frequently,Very frequently,Online lectures
+Male,Western,4th year,PC/Laptop,1–10 h,Good,Confident,Confident,Somewhat confident,Confident,Neutral,Agree,Disagree,Agree,Neutral,Occasionally,Somewhat frequently,Video tutorials
+Male,Western,2nd year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Confident,Agree,Agree,Neutral,Agree,Neutral,Somewhat infrequently,Very frequently,Video tutorials
+Male,Southern,1st year,"PC/Laptop, Tablet, Mobile phone",More than 30,Fair,Confident,Confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Neutral,Somewhat frequently,Very frequently,Video tutorials
+Male,Central,2nd year,PC/Laptop,10–20 h,Fair,Confident,Very confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Disagree,Somewhat frequently,Very frequently,Video tutorials
+Male,Central,1st year,"PC/Laptop, Mobile phone",More than 30,Good,Confident,Very confident,Confident,Somewhat confident,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly disagree,Very frequently,Occasionally,Video tutorials
+Male,Central,4th year,PC/Laptop,1–10 h,Fair,Very confident,Confident,Confident,Not confident,Neutral,Strongly agree,Neutral,Agree,Agree,Occasionally,Occasionally,Online lectures
+Male,Central,3rd year,PC/Laptop,10–20 h,Good,Confident,Confident,Confident,Confident,Agree,Strongly agree,Neutral,Agree,Neutral,Somewhat frequently,Somewhat frequently,Online lectures
+Male,Central,4th year,PC/Laptop,1–10 h,Poor,Confident,Confident,Confident,Not confident,Agree,Agree,Agree,Agree,Agree,Occasionally,Occasionally,Online lectures
+Male,Eastern,4th year,PC/Laptop,10–20 h,Fair,Confident,Very confident,Very confident,Confident,Agree,Neutral,Disagree,Strongly agree,Neutral,Very frequently,Somewhat frequently,Video tutorials
+Female,Eastern,2nd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Female,Eastern,3rd year,PC/Laptop,10–20 h,Poor,Somewhat confident,Very confident,Very confident,Not confident,Agree,Agree,Disagree,Agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+Male,Eastern,4th year,PC/Laptop,1–10 h,Poor,Confident,Confident,Confident,Somewhat confident,Agree,Strongly agree,Disagree,Strongly agree,Strongly disagree,Somewhat frequently,Somewhat frequently,Online lectures
+Male,Eastern,4th year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Strongly agree,Agree,Agree,Neutral,Occasionally,Occasionally,Text material
+Male,Eastern,4th year,PC/Laptop,10–20 h,Fair,Confident,Very confident,Confident,Not confident,Agree,Neutral,Neutral,Disagree,Agree,Occasionally,Somewhat frequently,Video tutorials
+Male,Eastern,3rd year,PC/Laptop,1–10 h,Poor,Very confident,Very confident,Very confident,Confident,Neutral,Agree,Neutral,Agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Eastern,4th year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Somewhat confident,Neutral,Agree,Agree,Agree,Agree,Occasionally,Very frequently,Video tutorials
+Male,Eastern,4th year,PC/Laptop,1–10 h,Good,Very confident,Confident,Confident,Confident,Neutral,Strongly agree,Neutral,Strongly agree,Neutral,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Eastern,3rd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Disagree,Somewhat frequently,Occasionally,Online lectures
+Male,Sabaragamuwa,1st year,PC/Laptop,20-30 h,Fair,Somewhat confident,Very confident,Confident,Not confident,Agree,Agree,Neutral,Strongly agree,Neutral,Somewhat frequently,Very frequently,Video tutorials
+Male,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Fair,Very confident,Confident,Confident,Confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Sabaragamuwa,3rd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Neutral,Agree,Agree,Agree,Neutral,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Sabaragamuwa,2nd year,PC/Laptop,10–20 h,Fair,Confident,Confident,Confident,Confident,Agree,Agree,Neutral,Strongly agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Good,Very confident,Very confident,Very confident,Very confident,Strongly agree,Agree,Strongly disagree,Strongly agree,Agree,Very frequently,Very frequently,Video tutorials
+Female,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Neutral,Agree,Disagree,Somewhat frequently,Somewhat infrequently,Online lectures
+Male,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Confident,Agree,Agree,Neutral,Agree,Neutral,Somewhat frequently,Very frequently,Video tutorials
+Male,Sabaragamuwa,3rd year,PC/Laptop,10–20 h,Poor,Confident,Very confident,Confident,Somewhat confident,Agree,Neutral,Agree,Neutral,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Fair,Very confident,Confident,Confident,Confident,Agree,Agree,Disagree,Strongly agree,Neutral,Very frequently,Very frequently,Video tutorials
+Male,North Western,2nd year,PC/Laptop,1–10 h,Fair,Somewhat confident,Somewhat confident,Somewhat confident,Somewhat confident,Strongly agree,Agree,Disagree,Neutral,Agree,Occasionally,Occasionally,Online lectures
+Female,North Western,3rd year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Not confident,Neutral,Agree,Disagree,Strongly agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+Male,North Western,1st year,PC/Laptop,20-30 h,Good,Very confident,Very confident,Very confident,Very confident,Strongly disagree,Agree,Strongly disagree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Online lectures
+Male,North Western,4th year,PC/Laptop,1–10 h,Excellent,Very confident,Confident,Confident,Not confident,Disagree,Disagree,Agree,Neutral,Disagree,Somewhat frequently,Occasionally,Video tutorials
+Male,North Western,3rd year,PC/Laptop,10–20 h,Good,Somewhat confident,Confident,Confident,Not confident,Neutral,Agree,Disagree,Strongly agree,Neutral,Very frequently,Very infrequently,Video tutorials
+Male,North Western,4th year,PC/Laptop,1–10 h,Poor,Very confident,Very confident,Very confident,Not confident,Agree,Neutral,Neutral,Agree,Agree,Occasionally,Somewhat frequently,Video tutorials
+Male,North Western,3rd year,PC/Laptop,20-30 h,Fair,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Occasionally,Video tutorials
+Female,North Western,4th year,PC/Laptop,1–10 h,Fair,Confident,Somewhat confident,Confident,Not confident,Agree,Neutral,Disagree,Neutral,Strongly agree,Somewhat infrequently,Somewhat frequently,Video tutorials
+Male,North Western,3rd year,PC/Laptop,1–10 h,Poor,Somewhat confident,Very confident,Very confident,Not confident,Neutral,Strongly disagree,Agree,Disagree,Neutral,Occasionally,Occasionally,Text material
+Male,Uva,2nd year,PC/Laptop,10–20 h,Good,Confident,Confident,Confident,Not confident,Neutral,Agree,Disagree,Agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Uva,2nd year,PC/Laptop,20-30 h,Fair,Somewhat confident,Confident,Somewhat confident,Somewhat confident,Strongly agree,Neutral,Disagree,Strongly agree,Agree,Somewhat frequently,Occasionally,Video tutorials
+Male,Uva,2nd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Somewhat confident,Somewhat confident,Neutral,Agree,Disagree,Neutral,Strongly agree,Somewhat frequently,Occasionally,Video tutorials
+Male,Uva,3rd year,PC/Laptop,1–10 h,Poor,Very confident,Confident,Confident,Confident,Agree,Disagree,Agree,Disagree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Uva,3rd year,PC/Laptop,10–20 h,Good,Somewhat confident,Very confident,Somewhat confident,Somewhat confident,Neutral,Agree,Disagree,Neutral,Agree,Occasionally,Very frequently,Video tutorials
+Female,Uva,3rd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Confident,Confident,Agree,Strongly agree,Agree,Agree,Disagree,Somewhat frequently,Somewhat infrequently,Online lectures
+Male,Uva,2nd year,PC/Laptop,10–20 h,Fair,Very confident,Confident,Somewhat confident,Not confident,Agree,Agree,Disagree,Agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+Male,Uva,2nd year,PC/Laptop,10–20 h,Good,Confident,Confident,Confident,Confident,Neutral,Agree,Disagree,Strongly agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Uva,4th year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Not confident,Neutral,Agree,Disagree,Agree,Strongly agree,Very frequently,Somewhat frequently,Video tutorials
+Male,Northern,3rd year,PC/Laptop,10–20 h,Good,Very confident,Very confident,Very confident,Very confident,Strongly agree,Strongly agree,Neutral,Strongly agree,Neutral,Very frequently,Occasionally,Video tutorials
+Male,Northern,3rd year,PC/Laptop,1–10 h,Excellent,Somewhat confident,Confident,Somewhat confident,Not confident,Agree,Strongly agree,Disagree,Agree,Agree,Occasionally,Somewhat frequently,Video tutorials
+Male,Northern,4th year,"PC/Laptop, Mobile phone",1–10 h,Fair,Somewhat confident,Confident,Confident,Not confident,Neutral,Disagree,Agree,Neutral,Agree,Occasionally,Somewhat frequently,Video tutorials
+Male,Northern,4th year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Confident,Somewhat confident,Neutral,Agree,Disagree,Strongly agree,Agree,Somewhat frequently,Occasionally,Video tutorials
+Male,Northern,3rd year,PC/Laptop,10–20 h,Fair,Very confident,Confident,Confident,Very confident,Strongly agree,Strongly agree,Disagree,Strongly agree,Strongly agree,Occasionally,Occasionally,Video tutorials
+Male,North Central,1st year,PC/Laptop,More than 30,Good,Somewhat confident,Very confident,Confident,Somewhat confident,Agree,Agree,Agree,Agree,Agree,Somewhat frequently,Occasionally,Video tutorials
+Female,North Central,2nd year,PC/Laptop,20-30 h,Poor,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Neutral,Agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+What is your gender?,What is your current residential province?,What is the year you are currently in your university,What devices do you use to access learning materials (select all that apply),How many hours are you spending weekly on e-learning platforms online?,"How stable is your internet connection, which you used to attend online classes?","If there is an issue connecting your web camera on an online lecture, How confident that you can resolve it by yourself?",How confident you are on creating a Microsoft Word document?,How confident you are on creating a Microsoft Excel document?,How confident you are on creating a simple computer program?,E-learning is a method of teaching and learning using electronic media,E-learning is helpful more than traditional learning in my academic performance,I review e-learning material before my learning sessions ,Education through e-learning platforms is better than traditional learning.,Do you avoid participating in an online lecture if it is recorded and uploaded?,How often do you browse the internet to find information?,How often do you use internet during online lectures?,Which type of resources do you prefer the most?
+Male,Western,3rd year,PC/Laptop,1–10 h,Good,Very confident,Very confident,Very confident,Very confident,Agree,Agree,Disagree,Agree,Neutral,Very frequently,Somewhat frequently,Video tutorials
+Female,North Central,2nd year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Somewhat confident,Somewhat confident,Agree,Neutral,Agree,Disagree,Strongly disagree,Occasionally,Occasionally,Video tutorials
+Male,Eastern,4th year,PC/Laptop,10–20 h,Poor,Somewhat confident,Confident,Confident,Not confident,Agree,Disagree,Neutral,Neutral,Disagree,Occasionally,Somewhat frequently,Online lectures
+Female,Sabaragamuwa,1st year,PC/Laptop,20-30 h,Fair,Not confident,Confident,Somewhat confident,Not confident,Agree,Agree,Strongly Agree,Agree,Strongly disagree,Very frequently,Somewhat frequently,Video tutorials
+Male,Western,3rd year,PC/Laptop,10–20 h,Good,Confident,Confident,Confident,Confident,Agree,Agree,Disagree,Agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Southern,2nd year,PC/Laptop,1–10 h,Fair,Confident,Somewhat confident,Somewhat confident,Not confident,Agree,Strongly agree,Disagree,Agree,Disagree,Very frequently,Very frequently,Video tutorials
+Female,Western,2nd year,PC/Laptop,1–10 h,Good,Not confident,Very confident,Confident,Not confident,Disagree,Agree,Strongly Agree,Disagree,Strongly disagree,Somewhat frequently,Occasionally,Text material
+Male,Western,3rd year,PC/Laptop,1–10 h,Excellent,Very confident,Very confident,Very confident,Very confident,Strongly agree,Agree,Agree,Agree,Disagree,Very frequently,Very frequently,Video tutorials
+Female,Western,4th year,PC/Laptop,10–20 h,Good,Somewhat confident,Confident,Confident,Not confident,Agree,Strongly agree,Agree,Agree,Disagree,Somewhat frequently,Occasionally,Online lectures
+Male,Western,4th year,PC/Laptop,1–10 h,Excellent,Somewhat confident,Very confident,Very confident,Not confident,Agree,Agree,Disagree,Agree,Disagree,Somewhat frequently,Very frequently,Video tutorials
+Female,Western,2nd year,PC/Laptop,10–20 h,Good,Somewhat confident,Confident,Somewhat confident,Not confident,Strongly agree,Strongly agree,Strongly Agree,Agree,Strongly disagree,Occasionally,Occasionally,Online lectures
+Male,Western,1st year,PC/Laptop,10–20 h,Good,Not confident,Confident,Somewhat confident,Not confident,Agree,Strongly agree,Strongly disagree,Strongly agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Western,1st year,PC/Laptop,20-30 h,Excellent,Confident,Confident,Confident,Somewhat confident,Agree,Agree,Neutral,Strongly agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Western,3rd year,PC/Laptop,1–10 h,Good,Very confident,Very confident,Confident,Very confident,Strongly agree,Strongly agree,Disagree,Strongly agree,Strongly agree,Very frequently,Very frequently,Video tutorials
+Male,Western,4th year,PC/Laptop,1–10 h,Excellent,Confident,Confident,Confident,Not confident,Agree,Disagree,Disagree,Disagree,Strongly disagree,Occasionally,Occasionally,Online lectures
+Male,Western,1st year,PC/Laptop,20-30 h,Good,Confident,Confident,Somewhat confident,Somewhat confident,Strongly agree,Agree,Neutral,Neutral,Strongly agree,Very frequently,Occasionally,Video tutorials
+Female,Western,3rd year,PC/Laptop,1–10 h,Good,Somewhat confident,Confident,Somewhat confident,Not confident,Neutral,Agree,Disagree,Agree,Disagree,Somewhat frequently,Very frequently,Video tutorials
+Female,Western,2nd year,"PC/Laptop, Mobile phone",10–20 h,Good,Somewhat confident,Confident,Confident,Not confident,Disagree,Agree,Agree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Western,4th year,PC/Laptop,1–10 h,Good,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Strongly agree,Agree,Neutral,Agree,Agree,Somewhat frequently,Occasionally,Online lectures
+Male,Southern,4th year,PC/Laptop,1–10 h,Fair,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Strongly agree,Agree,Agree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Southern,3rd year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Very confident,Not confident,Agree,Agree,Strongly Agree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Southern,1st year,PC/Laptop,20-30 h,Good,Confident,Somewhat confident,Somewhat confident,Confident,Agree,Agree,Strongly Agree,Agree,Agree,Somewhat frequently,Somewhat frequently,Online lectures
+Female,Southern,1st year,PC/Laptop,20-30 h,Poor,Not confident,Confident,Somewhat confident,Not confident,Agree,Strongly agree,Agree,Strongly agree,Agree,Very frequently,Very frequently,Online lectures
+Male,Southern,2nd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Strongly agree,Agree,Neutral,Neutral,Occasionally,Very frequently,Video tutorials
+Male,Southern,4th year,PC/Laptop,1–10 h,Poor,Somewhat confident,Very confident,Confident,Not confident,Agree,Strongly agree,Disagree,Neutral,Strongly agree,Somewhat infrequently,Very frequently,Video tutorials
+Male,Southern,2nd year,PC/Laptop,10–20 h,Fair,Confident,Confident,Confident,Confident,Strongly agree,Agree,Disagree,Agree,Neutral,Occasionally,Somewhat frequently,Text material
+Male,Southern,1st year,PC/Laptop,More than 30,Good,Confident,Confident,Confident,Very confident,Strongly agree,Strongly agree,Agree,Strongly agree,Agree,Somewhat frequently,Very frequently,Text material
+Female,Southern,1st year,PC/Laptop,20-30 h,Good,Somewhat confident,Very confident,Confident,Somewhat confident,Neutral,Agree,Agree,Neutral,Neutral,Somewhat infrequently,Very frequently,Video tutorials
+Male,Southern,2nd year,"PC/Laptop, Tablet",10–20 h,Fair,Somewhat confident,Confident,Somewhat confident,Not confident,Neutral,Agree,Disagree,Neutral,Agree,Somewhat frequently,Very infrequently,Online lectures
+Male,Southern,4th year,"PC/Laptop, Tablet, Mobile phone",1–10 h,Excellent,Very confident,Confident,Confident,Very confident,Strongly agree,Strongly agree,Disagree,Strongly agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Southern,3rd year,PC/Laptop,1–10 h,Good,Confident,Confident,Confident,Somewhat confident,Agree,Agree,Agree,Neutral,Neutral,Occasionally,Somewhat frequently,Online lectures
+Male,Central,1st year,PC/Laptop,20-30 h,Good,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Agree,Strongly agree,Agree,Neutral,Agree,Very frequently,Very frequently,Video tutorials
+Male,Central,1st year,PC/Laptop,20-30 h,Fair,Confident,Very confident,Confident,Not confident,Agree,Agree,Agree,Disagree,Disagree,Very frequently,Very frequently,Video tutorials
+Male,Central,4th year,"PC/Laptop, Mobile phone",1–10 h,Fair,Confident,Confident,Confident,Not confident,Strongly agree,Agree,Agree,Agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Central,1st year,PC/Laptop,10–20 h,Poor,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Agree,Agree,Neutral,Agree,Agree,Very frequently,Very frequently,Online lectures
+Male,Central,3rd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Somewhat confident,Confident,Not confident,Agree,Agree,Disagree,Neutral,Strongly agree,Very frequently,Occasionally,Online lectures
+Male,Central,4th year,PC/Laptop,1–10 h,Poor,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Very frequently,Online lectures
+Male,Central,1st year,PC/Laptop,More than 30,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Central,3rd year,PC/Laptop,1–10 h,Poor,Confident,Confident,Confident,Somewhat confident,Agree,Agree,Disagree,Strongly agree,Strongly agree,Very frequently,Very frequently,Video tutorials
+Female,Central,3rd year,PC/Laptop,10–20 h,Good,Somewhat confident,Somewhat confident,Somewhat confident,Somewhat confident,Agree,Agree,Agree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Text material
+Male,Central,4th year,"PC/Laptop, Mobile phone",1–10 h,Fair,Very confident,Somewhat confident,Somewhat confident,Confident,Agree,Strongly agree,Neutral,Agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Central,2nd year,"PC/Laptop, Mobile phone",10–20 h,Fair,Confident,Confident,Very confident,Confident,Neutral,Agree,Neutral,Agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+Male,Central,4th year,PC/Laptop,1–10 h,Good,Confident,Confident,Confident,Confident,Agree,Strongly agree,Disagree,Strongly agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Central,3rd year,PC/Laptop,1–10 h,Fair,Very confident,Confident,Confident,Somewhat confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Somewhat frequently,Online lectures
+Male,Western,3rd year,"PC/Laptop, Mobile phone",1–10 h,Good,Somewhat confident,Somewhat confident,Somewhat confident,Somewhat confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Western,1st year,PC/Laptop,20-30 h,Good,Confident,Somewhat confident,Somewhat confident,Not confident,Neutral,Agree,Disagree,Agree,Neutral,Occasionally,Somewhat frequently,Video tutorials
+Female,Western,2nd year,PC/Laptop,10–20 h,Good,Somewhat confident,Confident,Confident,Somewhat confident,Agree,Strongly agree,Disagree,Agree,Disagree,Occasionally,Occasionally,Online lectures
+Male,Western,2nd year,"PC/Laptop, Mobile phone",1–10 h,Good,Confident,Somewhat confident,Confident,Somewhat confident,Agree,Agree,Agree,Agree,Neutral,Somewhat frequently,Very frequently,Online lectures
+Male,Western,4th year,PC/Laptop,1–10 h,Good,Confident,Confident,Somewhat confident,Confident,Neutral,Agree,Disagree,Agree,Neutral,Occasionally,Somewhat frequently,Video tutorials
+Male,Western,2nd year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Confident,Agree,Agree,Neutral,Agree,Neutral,Somewhat infrequently,Very frequently,Video tutorials
+Male,Southern,1st year,"PC/Laptop, Tablet, Mobile phone",More than 30,Fair,Confident,Confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Neutral,Somewhat frequently,Very frequently,Video tutorials
+Male,Central,2nd year,PC/Laptop,10–20 h,Fair,Confident,Very confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Disagree,Somewhat frequently,Very frequently,Video tutorials
+Male,Central,1st year,"PC/Laptop, Mobile phone",More than 30,Good,Confident,Very confident,Confident,Somewhat confident,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly disagree,Very frequently,Occasionally,Video tutorials
+Male,Central,4th year,PC/Laptop,1–10 h,Fair,Very confident,Confident,Confident,Not confident,Neutral,Strongly agree,Neutral,Agree,Agree,Occasionally,Occasionally,Online lectures
+Male,Central,3rd year,PC/Laptop,10–20 h,Good,Confident,Confident,Confident,Confident,Agree,Strongly agree,Neutral,Agree,Neutral,Somewhat frequently,Somewhat frequently,Online lectures
+Male,Central,4th year,PC/Laptop,1–10 h,Poor,Confident,Confident,Confident,Not confident,Agree,Agree,Agree,Agree,Agree,Occasionally,Occasionally,Online lectures
+Male,Eastern,4th year,PC/Laptop,10–20 h,Fair,Confident,Very confident,Very confident,Confident,Agree,Neutral,Disagree,Strongly agree,Neutral,Very frequently,Somewhat frequently,Video tutorials
+Female,Eastern,2nd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Female,Eastern,3rd year,PC/Laptop,10–20 h,Poor,Somewhat confident,Very confident,Very confident,Not confident,Agree,Agree,Disagree,Agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+Male,Eastern,4th year,PC/Laptop,1–10 h,Poor,Confident,Confident,Confident,Somewhat confident,Agree,Strongly agree,Disagree,Strongly agree,Strongly disagree,Somewhat frequently,Somewhat frequently,Online lectures
+Male,Eastern,4th year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Strongly agree,Agree,Agree,Neutral,Occasionally,Occasionally,Text material
+Male,Eastern,4th year,PC/Laptop,10–20 h,Fair,Confident,Very confident,Confident,Not confident,Agree,Neutral,Neutral,Disagree,Agree,Occasionally,Somewhat frequently,Video tutorials
+Male,Eastern,3rd year,PC/Laptop,1–10 h,Poor,Very confident,Very confident,Very confident,Confident,Neutral,Agree,Neutral,Agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Eastern,4th year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Somewhat confident,Neutral,Agree,Agree,Agree,Agree,Occasionally,Very frequently,Video tutorials
+Male,Eastern,4th year,PC/Laptop,1–10 h,Good,Very confident,Confident,Confident,Confident,Neutral,Strongly agree,Neutral,Strongly agree,Neutral,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Eastern,3rd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Disagree,Somewhat frequently,Occasionally,Online lectures
+Male,Sabaragamuwa,1st year,PC/Laptop,20-30 h,Fair,Somewhat confident,Very confident,Confident,Not confident,Agree,Agree,Neutral,Strongly agree,Neutral,Somewhat frequently,Very frequently,Video tutorials
+Male,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Fair,Very confident,Confident,Confident,Confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Sabaragamuwa,3rd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Neutral,Agree,Agree,Agree,Neutral,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Sabaragamuwa,2nd year,PC/Laptop,10–20 h,Fair,Confident,Confident,Confident,Confident,Agree,Agree,Neutral,Strongly agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Good,Very confident,Very confident,Very confident,Very confident,Strongly agree,Agree,Strongly disagree,Strongly agree,Agree,Very frequently,Very frequently,Video tutorials
+Female,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Neutral,Agree,Disagree,Somewhat frequently,Somewhat infrequently,Online lectures
+Male,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Confident,Agree,Agree,Neutral,Agree,Neutral,Somewhat frequently,Very frequently,Video tutorials
+Male,Sabaragamuwa,3rd year,PC/Laptop,10–20 h,Poor,Confident,Very confident,Confident,Somewhat confident,Agree,Neutral,Agree,Neutral,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Fair,Very confident,Confident,Confident,Confident,Agree,Agree,Disagree,Strongly agree,Neutral,Very frequently,Very frequently,Video tutorials
+Male,North Western,2nd year,PC/Laptop,1–10 h,Fair,Somewhat confident,Somewhat confident,Somewhat confident,Somewhat confident,Strongly agree,Agree,Disagree,Neutral,Agree,Occasionally,Occasionally,Online lectures
+Female,North Western,3rd year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Not confident,Neutral,Agree,Disagree,Strongly agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+Male,North Western,1st year,PC/Laptop,20-30 h,Good,Very confident,Very confident,Very confident,Very confident,Strongly disagree,Agree,Strongly disagree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Online lectures
+Male,North Western,4th year,PC/Laptop,1–10 h,Excellent,Very confident,Confident,Confident,Not confident,Disagree,Disagree,Agree,Neutral,Disagree,Somewhat frequently,Occasionally,Video tutorials
+Male,North Western,3rd year,PC/Laptop,10–20 h,Good,Somewhat confident,Confident,Confident,Not confident,Neutral,Agree,Disagree,Strongly agree,Neutral,Very frequently,Very infrequently,Video tutorials
+Male,North Western,4th year,PC/Laptop,1–10 h,Poor,Very confident,Very confident,Very confident,Not confident,Agree,Neutral,Neutral,Agree,Agree,Occasionally,Somewhat frequently,Video tutorials
+Male,North Western,3rd year,PC/Laptop,20-30 h,Fair,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Occasionally,Video tutorials
+Female,North Western,4th year,PC/Laptop,1–10 h,Fair,Confident,Somewhat confident,Confident,Not confident,Agree,Neutral,Disagree,Neutral,Strongly agree,Somewhat infrequently,Somewhat frequently,Video tutorials
+Male,North Western,3rd year,PC/Laptop,1–10 h,Poor,Somewhat confident,Very confident,Very confident,Not confident,Neutral,Strongly disagree,Agree,Disagree,Neutral,Occasionally,Occasionally,Text material
+Male,Uva,2nd year,PC/Laptop,10–20 h,Good,Confident,Confident,Confident,Not confident,Neutral,Agree,Disagree,Agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Uva,2nd year,PC/Laptop,20-30 h,Fair,Somewhat confident,Confident,Somewhat confident,Somewhat confident,Strongly agree,Neutral,Disagree,Strongly agree,Agree,Somewhat frequently,Occasionally,Video tutorials
+Male,Uva,2nd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Somewhat confident,Somewhat confident,Neutral,Agree,Disagree,Neutral,Strongly agree,Somewhat frequently,Occasionally,Video tutorials
+Male,Uva,3rd year,PC/Laptop,1–10 h,Poor,Very confident,Confident,Confident,Confident,Agree,Disagree,Agree,Disagree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Uva,3rd year,PC/Laptop,10–20 h,Good,Somewhat confident,Very confident,Somewhat confident,Somewhat confident,Neutral,Agree,Disagree,Neutral,Agree,Occasionally,Very frequently,Video tutorials
+Female,Uva,3rd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Confident,Confident,Agree,Strongly agree,Agree,Agree,Disagree,Somewhat frequently,Somewhat infrequently,Online lectures
+Male,Uva,2nd year,PC/Laptop,10–20 h,Fair,Very confident,Confident,Somewhat confident,Not confident,Agree,Agree,Disagree,Agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+Male,Uva,2nd year,PC/Laptop,10–20 h,Good,Confident,Confident,Confident,Confident,Neutral,Agree,Disagree,Strongly agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Uva,4th year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Not confident,Neutral,Agree,Disagree,Agree,Strongly agree,Very frequently,Somewhat frequently,Video tutorials
+Male,Northern,3rd year,PC/Laptop,10–20 h,Good,Very confident,Very confident,Very confident,Very confident,Strongly agree,Strongly agree,Neutral,Strongly agree,Neutral,Very frequently,Occasionally,Video tutorials
+Male,Northern,3rd year,PC/Laptop,1–10 h,Excellent,Somewhat confident,Confident,Somewhat confident,Not confident,Agree,Strongly agree,Disagree,Agree,Agree,Occasionally,Somewhat frequently,Video tutorials
+Male,Northern,4th year,"PC/Laptop, Mobile phone",1–10 h,Fair,Somewhat confident,Confident,Confident,Not confident,Neutral,Disagree,Agree,Neutral,Agree,Occasionally,Somewhat frequently,Video tutorials
+Male,Northern,4th year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Confident,Somewhat confident,Neutral,Agree,Disagree,Strongly agree,Agree,Somewhat frequently,Occasionally,Video tutorials
+Male,Northern,3rd year,PC/Laptop,10–20 h,Fair,Very confident,Confident,Confident,Very confident,Strongly agree,Strongly agree,Disagree,Strongly agree,Strongly agree,Occasionally,Occasionally,Video tutorials
+Male,North Central,1st year,PC/Laptop,More than 30,Good,Somewhat confident,Very confident,Confident,Somewhat confident,Agree,Agree,Agree,Agree,Agree,Somewhat frequently,Occasionally,Video tutorials
+Female,North Central,2nd year,PC/Laptop,20-30 h,Poor,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Neutral,Agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+What is your gender?,What is your current residential province?,What is the year you are currently in your university,What devices do you use to access learning materials (select all that apply),How many hours are you spending weekly on e-learning platforms online?,"How stable is your internet connection, which you used to attend online classes?","If there is an issue connecting your web camera on an online lecture, How confident that you can resolve it by yourself?",How confident you are on creating a Microsoft Word document?,How confident you are on creating a Microsoft Excel document?,How confident you are on creating a simple computer program?,E-learning is a method of teaching and learning using electronic media,E-learning is helpful more than traditional learning in my academic performance,I review e-learning material before my learning sessions ,Education through e-learning platforms is better than traditional learning.,Do you avoid participating in an online lecture if it is recorded and uploaded?,How often do you browse the internet to find information?,How often do you use internet during online lectures?,Which type of resources do you prefer the most?
+Male,Western,3rd year,PC/Laptop,1–10 h,Good,Very confident,Very confident,Very confident,Very confident,Agree,Agree,Disagree,Agree,Neutral,Very frequently,Somewhat frequently,Video tutorials
+Female,North Central,2nd year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Somewhat confident,Somewhat confident,Agree,Neutral,Agree,Disagree,Strongly disagree,Occasionally,Occasionally,Video tutorials
+Male,Eastern,4th year,PC/Laptop,10–20 h,Poor,Somewhat confident,Confident,Confident,Not confident,Agree,Disagree,Neutral,Neutral,Disagree,Occasionally,Somewhat frequently,Online lectures
+Female,Sabaragamuwa,1st year,PC/Laptop,20-30 h,Fair,Not confident,Confident,Somewhat confident,Not confident,Agree,Agree,Strongly Agree,Agree,Strongly disagree,Very frequently,Somewhat frequently,Video tutorials
+Male,Western,3rd year,PC/Laptop,10–20 h,Good,Confident,Confident,Confident,Confident,Agree,Agree,Disagree,Agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Southern,2nd year,PC/Laptop,1–10 h,Fair,Confident,Somewhat confident,Somewhat confident,Not confident,Agree,Strongly agree,Disagree,Agree,Disagree,Very frequently,Very frequently,Video tutorials
+Female,Western,2nd year,PC/Laptop,1–10 h,Good,Not confident,Very confident,Confident,Not confident,Disagree,Agree,Strongly Agree,Disagree,Strongly disagree,Somewhat frequently,Occasionally,Text material
+Male,Western,3rd year,PC/Laptop,1–10 h,Excellent,Very confident,Very confident,Very confident,Very confident,Strongly agree,Agree,Agree,Agree,Disagree,Very frequently,Very frequently,Video tutorials
+Female,Western,4th year,PC/Laptop,10–20 h,Good,Somewhat confident,Confident,Confident,Not confident,Agree,Strongly agree,Agree,Agree,Disagree,Somewhat frequently,Occasionally,Online lectures
+Male,Western,4th year,PC/Laptop,1–10 h,Excellent,Somewhat confident,Very confident,Very confident,Not confident,Agree,Agree,Disagree,Agree,Disagree,Somewhat frequently,Very frequently,Video tutorials
+Female,Western,2nd year,PC/Laptop,10–20 h,Good,Somewhat confident,Confident,Somewhat confident,Not confident,Strongly agree,Strongly agree,Strongly Agree,Agree,Strongly disagree,Occasionally,Occasionally,Online lectures
+Male,Western,1st year,PC/Laptop,10–20 h,Good,Not confident,Confident,Somewhat confident,Not confident,Agree,Strongly agree,Strongly disagree,Strongly agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Western,1st year,PC/Laptop,20-30 h,Excellent,Confident,Confident,Confident,Somewhat confident,Agree,Agree,Neutral,Strongly agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Western,3rd year,PC/Laptop,1–10 h,Good,Very confident,Very confident,Confident,Very confident,Strongly agree,Strongly agree,Disagree,Strongly agree,Strongly agree,Very frequently,Very frequently,Video tutorials
+Male,Western,4th year,PC/Laptop,1–10 h,Excellent,Confident,Confident,Confident,Not confident,Agree,Disagree,Disagree,Disagree,Strongly disagree,Occasionally,Occasionally,Online lectures
+Male,Western,1st year,PC/Laptop,20-30 h,Good,Confident,Confident,Somewhat confident,Somewhat confident,Strongly agree,Agree,Neutral,Neutral,Strongly agree,Very frequently,Occasionally,Video tutorials
+Female,Western,3rd year,PC/Laptop,1–10 h,Good,Somewhat confident,Confident,Somewhat confident,Not confident,Neutral,Agree,Disagree,Agree,Disagree,Somewhat frequently,Very frequently,Video tutorials
+Female,Western,2nd year,"PC/Laptop, Mobile phone",10–20 h,Good,Somewhat confident,Confident,Confident,Not confident,Disagree,Agree,Agree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Western,4th year,PC/Laptop,1–10 h,Good,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Strongly agree,Agree,Neutral,Agree,Agree,Somewhat frequently,Occasionally,Online lectures
+Male,Southern,4th year,PC/Laptop,1–10 h,Fair,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Strongly agree,Agree,Agree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Southern,3rd year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Very confident,Not confident,Agree,Agree,Strongly Agree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Southern,1st year,PC/Laptop,20-30 h,Good,Confident,Somewhat confident,Somewhat confident,Confident,Agree,Agree,Strongly Agree,Agree,Agree,Somewhat frequently,Somewhat frequently,Online lectures
+Female,Southern,1st year,PC/Laptop,20-30 h,Poor,Not confident,Confident,Somewhat confident,Not confident,Agree,Strongly agree,Agree,Strongly agree,Agree,Very frequently,Very frequently,Online lectures
+Male,Southern,2nd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Strongly agree,Agree,Neutral,Neutral,Occasionally,Very frequently,Video tutorials
+Male,Southern,4th year,PC/Laptop,1–10 h,Poor,Somewhat confident,Very confident,Confident,Not confident,Agree,Strongly agree,Disagree,Neutral,Strongly agree,Somewhat infrequently,Very frequently,Video tutorials
+Male,Southern,2nd year,PC/Laptop,10–20 h,Fair,Confident,Confident,Confident,Confident,Strongly agree,Agree,Disagree,Agree,Neutral,Occasionally,Somewhat frequently,Text material
+Male,Southern,1st year,PC/Laptop,More than 30,Good,Confident,Confident,Confident,Very confident,Strongly agree,Strongly agree,Agree,Strongly agree,Agree,Somewhat frequently,Very frequently,Text material
+Female,Southern,1st year,PC/Laptop,20-30 h,Good,Somewhat confident,Very confident,Confident,Somewhat confident,Neutral,Agree,Agree,Neutral,Neutral,Somewhat infrequently,Very frequently,Video tutorials
+Male,Southern,2nd year,"PC/Laptop, Tablet",10–20 h,Fair,Somewhat confident,Confident,Somewhat confident,Not confident,Neutral,Agree,Disagree,Neutral,Agree,Somewhat frequently,Very infrequently,Online lectures
+Male,Southern,4th year,"PC/Laptop, Tablet, Mobile phone",1–10 h,Excellent,Very confident,Confident,Confident,Very confident,Strongly agree,Strongly agree,Disagree,Strongly agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Southern,3rd year,PC/Laptop,1–10 h,Good,Confident,Confident,Confident,Somewhat confident,Agree,Agree,Agree,Neutral,Neutral,Occasionally,Somewhat frequently,Online lectures
+Male,Central,1st year,PC/Laptop,20-30 h,Good,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Agree,Strongly agree,Agree,Neutral,Agree,Very frequently,Very frequently,Video tutorials
+Male,Central,1st year,PC/Laptop,20-30 h,Fair,Confident,Very confident,Confident,Not confident,Agree,Agree,Agree,Disagree,Disagree,Very frequently,Very frequently,Video tutorials
+Male,Central,4th year,"PC/Laptop, Mobile phone",1–10 h,Fair,Confident,Confident,Confident,Not confident,Strongly agree,Agree,Agree,Agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Central,1st year,PC/Laptop,10–20 h,Poor,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Agree,Agree,Neutral,Agree,Agree,Very frequently,Very frequently,Online lectures
+Male,Central,3rd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Somewhat confident,Confident,Not confident,Agree,Agree,Disagree,Neutral,Strongly agree,Very frequently,Occasionally,Online lectures
+Male,Central,4th year,PC/Laptop,1–10 h,Poor,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Very frequently,Online lectures
+Male,Central,1st year,PC/Laptop,More than 30,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Central,3rd year,PC/Laptop,1–10 h,Poor,Confident,Confident,Confident,Somewhat confident,Agree,Agree,Disagree,Strongly agree,Strongly agree,Very frequently,Very frequently,Video tutorials
+Female,Central,3rd year,PC/Laptop,10–20 h,Good,Somewhat confident,Somewhat confident,Somewhat confident,Somewhat confident,Agree,Agree,Agree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Text material
+Male,Central,4th year,"PC/Laptop, Mobile phone",1–10 h,Fair,Very confident,Somewhat confident,Somewhat confident,Confident,Agree,Strongly agree,Neutral,Agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Central,2nd year,"PC/Laptop, Mobile phone",10–20 h,Fair,Confident,Confident,Very confident,Confident,Neutral,Agree,Neutral,Agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+Male,Central,4th year,PC/Laptop,1–10 h,Good,Confident,Confident,Confident,Confident,Agree,Strongly agree,Disagree,Strongly agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Central,3rd year,PC/Laptop,1–10 h,Fair,Very confident,Confident,Confident,Somewhat confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Somewhat frequently,Online lectures
+Male,Western,3rd year,"PC/Laptop, Mobile phone",1–10 h,Good,Somewhat confident,Somewhat confident,Somewhat confident,Somewhat confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Western,1st year,PC/Laptop,20-30 h,Good,Confident,Somewhat confident,Somewhat confident,Not confident,Neutral,Agree,Disagree,Agree,Neutral,Occasionally,Somewhat frequently,Video tutorials
+Female,Western,2nd year,PC/Laptop,10–20 h,Good,Somewhat confident,Confident,Confident,Somewhat confident,Agree,Strongly agree,Disagree,Agree,Disagree,Occasionally,Occasionally,Online lectures
+Male,Western,2nd year,"PC/Laptop, Mobile phone",1–10 h,Good,Confident,Somewhat confident,Confident,Somewhat confident,Agree,Agree,Agree,Agree,Neutral,Somewhat frequently,Very frequently,Online lectures
+Male,Western,4th year,PC/Laptop,1–10 h,Good,Confident,Confident,Somewhat confident,Confident,Neutral,Agree,Disagree,Agree,Neutral,Occasionally,Somewhat frequently,Video tutorials
+Male,Western,2nd year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Confident,Agree,Agree,Neutral,Agree,Neutral,Somewhat infrequently,Very frequently,Video tutorials
+Male,Southern,1st year,"PC/Laptop, Tablet, Mobile phone",More than 30,Fair,Confident,Confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Neutral,Somewhat frequently,Very frequently,Video tutorials
+Male,Central,2nd year,PC/Laptop,10–20 h,Fair,Confident,Very confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Disagree,Somewhat frequently,Very frequently,Video tutorials
+Male,Central,1st year,"PC/Laptop, Mobile phone",More than 30,Good,Confident,Very confident,Confident,Somewhat confident,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly disagree,Very frequently,Occasionally,Video tutorials
+Male,Central,4th year,PC/Laptop,1–10 h,Fair,Very confident,Confident,Confident,Not confident,Neutral,Strongly agree,Neutral,Agree,Agree,Occasionally,Occasionally,Online lectures
+Male,Central,3rd year,PC/Laptop,10–20 h,Good,Confident,Confident,Confident,Confident,Agree,Strongly agree,Neutral,Agree,Neutral,Somewhat frequently,Somewhat frequently,Online lectures
+Male,Central,4th year,PC/Laptop,1–10 h,Poor,Confident,Confident,Confident,Not confident,Agree,Agree,Agree,Agree,Agree,Occasionally,Occasionally,Online lectures
+Male,Eastern,4th year,PC/Laptop,10–20 h,Fair,Confident,Very confident,Very confident,Confident,Agree,Neutral,Disagree,Strongly agree,Neutral,Very frequently,Somewhat frequently,Video tutorials
+Female,Eastern,2nd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Very frequently,Video tutorials
+Female,Eastern,3rd year,PC/Laptop,10–20 h,Poor,Somewhat confident,Very confident,Very confident,Not confident,Agree,Agree,Disagree,Agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+Male,Eastern,4th year,PC/Laptop,1–10 h,Poor,Confident,Confident,Confident,Somewhat confident,Agree,Strongly agree,Disagree,Strongly agree,Strongly disagree,Somewhat frequently,Somewhat frequently,Online lectures
+Male,Eastern,4th year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Strongly agree,Agree,Agree,Neutral,Occasionally,Occasionally,Text material
+Male,Eastern,4th year,PC/Laptop,10–20 h,Fair,Confident,Very confident,Confident,Not confident,Agree,Neutral,Neutral,Disagree,Agree,Occasionally,Somewhat frequently,Video tutorials
+Male,Eastern,3rd year,PC/Laptop,1–10 h,Poor,Very confident,Very confident,Very confident,Confident,Neutral,Agree,Neutral,Agree,Agree,Very frequently,Very frequently,Video tutorials
+Male,Eastern,4th year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Somewhat confident,Neutral,Agree,Agree,Agree,Agree,Occasionally,Very frequently,Video tutorials
+Male,Eastern,4th year,PC/Laptop,1–10 h,Good,Very confident,Confident,Confident,Confident,Neutral,Strongly agree,Neutral,Strongly agree,Neutral,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Eastern,3rd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Disagree,Agree,Disagree,Somewhat frequently,Occasionally,Online lectures
+Male,Sabaragamuwa,1st year,PC/Laptop,20-30 h,Fair,Somewhat confident,Very confident,Confident,Not confident,Agree,Agree,Neutral,Strongly agree,Neutral,Somewhat frequently,Very frequently,Video tutorials
+Male,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Fair,Very confident,Confident,Confident,Confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Sabaragamuwa,3rd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Neutral,Agree,Agree,Agree,Neutral,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Sabaragamuwa,2nd year,PC/Laptop,10–20 h,Fair,Confident,Confident,Confident,Confident,Agree,Agree,Neutral,Strongly agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Good,Very confident,Very confident,Very confident,Very confident,Strongly agree,Agree,Strongly disagree,Strongly agree,Agree,Very frequently,Very frequently,Video tutorials
+Female,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Neutral,Agree,Disagree,Somewhat frequently,Somewhat infrequently,Online lectures
+Male,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Confident,Agree,Agree,Neutral,Agree,Neutral,Somewhat frequently,Very frequently,Video tutorials
+Male,Sabaragamuwa,3rd year,PC/Laptop,10–20 h,Poor,Confident,Very confident,Confident,Somewhat confident,Agree,Neutral,Agree,Neutral,Agree,Somewhat frequently,Very frequently,Video tutorials
+Male,Sabaragamuwa,4th year,PC/Laptop,1–10 h,Fair,Very confident,Confident,Confident,Confident,Agree,Agree,Disagree,Strongly agree,Neutral,Very frequently,Very frequently,Video tutorials
+Male,North Western,2nd year,PC/Laptop,1–10 h,Fair,Somewhat confident,Somewhat confident,Somewhat confident,Somewhat confident,Strongly agree,Agree,Disagree,Neutral,Agree,Occasionally,Occasionally,Online lectures
+Female,North Western,3rd year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Not confident,Neutral,Agree,Disagree,Strongly agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+Male,North Western,1st year,PC/Laptop,20-30 h,Good,Very confident,Very confident,Very confident,Very confident,Strongly disagree,Agree,Strongly disagree,Agree,Disagree,Somewhat frequently,Somewhat frequently,Online lectures
+Male,North Western,4th year,PC/Laptop,1–10 h,Excellent,Very confident,Confident,Confident,Not confident,Disagree,Disagree,Agree,Neutral,Disagree,Somewhat frequently,Occasionally,Video tutorials
+Male,North Western,3rd year,PC/Laptop,10–20 h,Good,Somewhat confident,Confident,Confident,Not confident,Neutral,Agree,Disagree,Strongly agree,Neutral,Very frequently,Very infrequently,Video tutorials
+Male,North Western,4th year,PC/Laptop,1–10 h,Poor,Very confident,Very confident,Very confident,Not confident,Agree,Neutral,Neutral,Agree,Agree,Occasionally,Somewhat frequently,Video tutorials
+Male,North Western,3rd year,PC/Laptop,20-30 h,Fair,Somewhat confident,Somewhat confident,Somewhat confident,Not confident,Agree,Agree,Disagree,Agree,Agree,Somewhat frequently,Occasionally,Video tutorials
+Female,North Western,4th year,PC/Laptop,1–10 h,Fair,Confident,Somewhat confident,Confident,Not confident,Agree,Neutral,Disagree,Neutral,Strongly agree,Somewhat infrequently,Somewhat frequently,Video tutorials
+Male,North Western,3rd year,PC/Laptop,1–10 h,Poor,Somewhat confident,Very confident,Very confident,Not confident,Neutral,Strongly disagree,Agree,Disagree,Neutral,Occasionally,Occasionally,Text material
+Male,Uva,2nd year,PC/Laptop,10–20 h,Good,Confident,Confident,Confident,Not confident,Neutral,Agree,Disagree,Agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Uva,2nd year,PC/Laptop,20-30 h,Fair,Somewhat confident,Confident,Somewhat confident,Somewhat confident,Strongly agree,Neutral,Disagree,Strongly agree,Agree,Somewhat frequently,Occasionally,Video tutorials
+Male,Uva,2nd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Somewhat confident,Somewhat confident,Neutral,Agree,Disagree,Neutral,Strongly agree,Somewhat frequently,Occasionally,Video tutorials
+Male,Uva,3rd year,PC/Laptop,1–10 h,Poor,Very confident,Confident,Confident,Confident,Agree,Disagree,Agree,Disagree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Uva,3rd year,PC/Laptop,10–20 h,Good,Somewhat confident,Very confident,Somewhat confident,Somewhat confident,Neutral,Agree,Disagree,Neutral,Agree,Occasionally,Very frequently,Video tutorials
+Female,Uva,3rd year,PC/Laptop,10–20 h,Fair,Somewhat confident,Confident,Confident,Confident,Agree,Strongly agree,Agree,Agree,Disagree,Somewhat frequently,Somewhat infrequently,Online lectures
+Male,Uva,2nd year,PC/Laptop,10–20 h,Fair,Very confident,Confident,Somewhat confident,Not confident,Agree,Agree,Disagree,Agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
+Male,Uva,2nd year,PC/Laptop,10–20 h,Good,Confident,Confident,Confident,Confident,Neutral,Agree,Disagree,Strongly agree,Agree,Somewhat frequently,Somewhat frequently,Video tutorials
+Male,Uva,4th year,PC/Laptop,1–10 h,Fair,Confident,Confident,Confident,Not confident,Neutral,Agree,Disagree,Agree,Strongly agree,Very frequently,Somewhat frequently,Video tutorials
+Male,Northern,3rd year,PC/Laptop,10–20 h,Good,Very confident,Very confident,Very confident,Very confident,Strongly agree,Strongly agree,Neutral,Strongly agree,Neutral,Very frequently,Occasionally,Video tutorials
+Male,Northern,3rd year,PC/Laptop,1–10 h,Excellent,Somewhat confident,Confident,Somewhat confident,Not confident,Agree,Strongly agree,Disagree,Agree,Agree,Occasionally,Somewhat frequently,Video tutorials
+Male,Northern,4th year,"PC/Laptop, Mobile phone",1–10 h,Fair,Somewhat confident,Confident,Confident,Not confident,Neutral,Disagree,Agree,Neutral,Agree,Occasionally,Somewhat frequently,Video tutorials
+Male,Northern,4th year,PC/Laptop,1–10 h,Fair,Somewhat confident,Confident,Confident,Somewhat confident,Neutral,Agree,Disagree,Strongly agree,Agree,Somewhat frequently,Occasionally,Video tutorials
+Male,Northern,3rd year,PC/Laptop,10–20 h,Fair,Very confident,Confident,Confident,Very confident,Strongly agree,Strongly agree,Disagree,Strongly agree,Strongly agree,Occasionally,Occasionally,Video tutorials
+Male,North Central,1st year,PC/Laptop,More than 30,Good,Somewhat confident,Very confident,Confident,Somewhat confident,Agree,Agree,Agree,Agree,Agree,Somewhat frequently,Occasionally,Video tutorials
+Female,North Central,2nd year,PC/Laptop,20-30 h,Poor,Somewhat confident,Confident,Confident,Not confident,Agree,Agree,Neutral,Agree,Neutral,Somewhat frequently,Occasionally,Video tutorials
